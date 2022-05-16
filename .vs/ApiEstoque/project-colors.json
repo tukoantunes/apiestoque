@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "837b3d72-51d3-4fa3-bc72-9cba31fe16a4": {
+      "ProjectGuid": "837b3d72-51d3-4fa3-bc72-9cba31fe16a4",
+      "DisplayName": "ApiEstoque.Tests",
+      "ColorIndex": 0
+    },
+    "e7a34bf0-e329-42a8-b6f3-22ea8a8e07e0": {
+      "ProjectGuid": "e7a34bf0-e329-42a8-b6f3-22ea8a8e07e0",
+      "DisplayName": "ApiEstoque.Services",
+      "ColorIndex": 1
+    },
+    "b6973949-167b-4445-b05e-3e9707b3ca10": {
+      "ProjectGuid": "b6973949-167b-4445-b05e-3e9707b3ca10",
+      "DisplayName": "ApiEstoque.Infra.Data",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
